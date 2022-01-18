@@ -210,3 +210,7 @@ To make these grab some more steel rods, and machine them down, as shown in the 
 ![image](https://user-images.githubusercontent.com/19898602/135964062-850bd88d-9df6-4985-9844-4cc73569f722.png)
 
 With that, the solenoid V4 is basically complete. Now just add some form of a flywheel to the crankshaft, add some power, and let the solenoid engine roar!
+
+
+![MVI_0005_1](https://user-images.githubusercontent.com/19898602/149893195-65316475-0e0f-4c13-85f4-c2d9a27eb7a5.gif)
+
